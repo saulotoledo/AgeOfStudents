@@ -1,0 +1,6 @@
+Luiza
+
+:01:
+COMPUT: Oi, meu nome é Luiza. Disseram-me que o baú na ponte contém uma boa surpresa!
+UNLOCK: trunk_box
+_GO_TO: 01

@@ -1,0 +1,8 @@
+Jardineiro
+
+:01:
+COMPUT: Você quer destruir o foco dos mosquitos?! Tem coragem mesmo! Uma fonte confiável me disse...
+COMPUT: ...que existem baús com coisas dentro espalhados pela universidade, eles podem te ajudar.
+COMPUT: Mas cuidado com surpresas desagradáveis!
+UNLOCK: trunk
+_GO_TO: 01

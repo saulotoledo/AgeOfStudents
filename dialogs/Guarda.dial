@@ -1,0 +1,6 @@
+Guarda
+
+:01:
+COMPUT: Olá! As passagens para o centro estão bloqueadas, e o portão superior fechada. Há uma concentração de mosquitos...
+COMPUT: ...bastante grande aí dentro. Só é possível entrar pegando a chave do portão.
+_GO_TO: 01

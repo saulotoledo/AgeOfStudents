@@ -1,0 +1,9 @@
+Você
+
+:01:
+PLAYER: Eu sou um estudante desta universidade, uma das maiores do continente.
+PLAYER: Não estão havendo aulas normalmente, os alunos estão sendo atacados por mosquitos.
+PLAYER: A picada destes mosquitos pode causar tonturas, dor-de-cabeça e outros sintomas,...
+PLAYER: ...então está sendo difícil manter o ritmo normal de aulas aqui, uns poucos se arriscam.
+PLAYER: Estou determinado a encontrar uma solução pare esta universidade!
+_GO_TO: 01

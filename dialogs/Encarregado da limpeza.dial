@@ -1,0 +1,6 @@
+Encarregado da limpeza
+
+:01:
+COMPUT: Cuidado! Você está em um caminho perigoso. Se for se aventurar encontre um machado...
+COMPUT: ...será uma boa arma.
+_GO_TO: 02
