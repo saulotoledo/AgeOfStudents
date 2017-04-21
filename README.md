@@ -1,6 +1,6 @@
 # Age of Students
 
-Age of Students is a 2D turn-based RPG style game developed as a prerequisite to complete the discipline **Programming Lab I**, from the first period of the undergraduate course in Computer Science of the Federal University of Campina Grande in the **second half of the year 2008**, when the author was an undergraduate student. The game code is provided as delivered in that discipline, no improvements or fixes were made since then. This repository is intended to be a historical backup of the game. The main game dialogs and texts are written in the [brazilian portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese) language.
+Age of Students is a 2D turn-based RPG style game developed as a prerequisite to complete the discipline **Programming Lab I**, from the first period of the undergraduate course in Computer Science of the Federal University of Campina Grande in the **second half of the year 2008**, when the author was an undergraduate student. Except for a minor change that allows the game to be played on faster machines ([here](https://github.com/saulotoledo/AgeOfStudents/blob/master/main.py#L25) and [here](https://github.com/saulotoledo/AgeOfStudents/blob/master/main.py#L28)), the game code is provided as delivered in that discipline, no other improvements or fixes were made since then. This repository is intended to be a historical backup of the game. The main game dialogs and texts are written in the [brazilian portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese) language.
 
 ## Game preview
 

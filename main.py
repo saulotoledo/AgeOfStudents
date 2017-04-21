@@ -22,12 +22,10 @@ from gamecontrol import *
 from pygame.locals import *
 
 game = clGameControl()
-
-
-
-
+clock = pygame.time.Clock()
 
 while True:
+	clock.tick(12)
 	for event in pygame.event.get():
 		if event.type == QUIT:
 			exit()
